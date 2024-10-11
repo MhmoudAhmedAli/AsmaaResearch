@@ -6,11 +6,8 @@
       <class name="com.demoblaze.test.DemoBlaze_TestRunner">
         <methods>
           <include name="beforeClass"/>
-          <include name="placeOrder"/>
-          <include name="navigateToHomePage"/>
           <include name="user_Login"/>
           <include name="afterClass"/>
-          <include name="addProductToCart"/>
         </methods>
       </class> <!-- com.demoblaze.test.DemoBlaze_TestRunner -->
     </classes>
